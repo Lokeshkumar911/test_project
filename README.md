@@ -1,2 +1,2 @@
 # test_project
-git connection with Jenkins CICD
+git connection with Jenkins CICDs
